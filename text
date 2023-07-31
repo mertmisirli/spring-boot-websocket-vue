@@ -1,5 +1,9 @@
 "mongodb+srv://misirlimert1:<password>@cluster0.1ywerye.mongodb.net/?retryWrites=true&w=majority"
 
+  data:
+    mongodb:
+      uri: mongodb+srv://misirlimert1:Eobh7788mongodb@cluster0.1ywerye.mongodb.net/db1?retryWrites=true&w=majority
+
 
 <script setup>
 </script>
